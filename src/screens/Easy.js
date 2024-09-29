@@ -22,7 +22,7 @@ export const Easy = () => {
       }
     };
 
-    return () => fetchCards();
+    fetchCards();
   }, []);
 
   if (loading) {

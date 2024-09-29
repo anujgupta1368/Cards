@@ -38,7 +38,7 @@ export const Hard = () => {
       }
     };
 
-    return () => fetchCards();
+    fetchCards();
   }, []);
 
   useEffect(() => {
