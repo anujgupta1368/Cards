@@ -1,5 +1,8 @@
 # Cards
 
+## Deployed URL
+- https://main--anujgupta-cards.netlify.app/
+  
 ## Technologies Used
 - React.js
 
